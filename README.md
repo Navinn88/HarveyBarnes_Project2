@@ -1,7 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+#Problem Space:
+The goal of this project is to understand which factors influence home sale prices in Ames, Iowa. Housing prices vary widely, and features such as square footage, neighborhood, quality, condition, and building type may explain these differences. This matters because buyers, sellers, and real-estate professionals rely on accurate pricing to make informed financial decisions.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The analysis focuses on what features affect price, why certain attributes raise or lower value, who is impacted (buyers, sellers, analysts), where the data comes from (Ames, Iowa), and when the homes were sold (timing and season). Overall, the project aims to use data to better understand how different property characteristics shape a home’s market value.
